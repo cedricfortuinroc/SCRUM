@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint11_Exerc_3", "Sprint1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint11_Exerc_4", "Sprint11_Exerc_4\Sprint11_Exerc_4.csproj", "{9220F897-B766-4881-958F-86CD4C72933C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint11_Exerc5", "Sprint11_Exerc5\Sprint11_Exerc5.csproj", "{A044C27A-3630-4FCE-9738-EE2E5BA4C9E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint11_Exerc5", "Sprint11_Exerc5\Sprint11_Exerc_5.csproj", "{A044C27A-3630-4FCE-9738-EE2E5BA4C9E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
