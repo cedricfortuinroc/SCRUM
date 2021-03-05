@@ -1,0 +1,6 @@
+C:\RvT-repo\semester-4-cedricfortuinroc\Sprint11_Exercises\Sprint11_Exerc_2\bin\Debug\Sprint11_Exerc_2.exe
+C:\RvT-repo\semester-4-cedricfortuinroc\Sprint11_Exercises\Sprint11_Exerc_2\bin\Debug\Sprint11_Exerc_2.pdb
+C:\RvT-repo\semester-4-cedricfortuinroc\Sprint11_Exercises\Sprint11_Exerc_2\obj\Debug\Sprint11_Exerc_2.csprojAssemblyReference.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\Sprint11_Exercises\Sprint11_Exerc_2\obj\Debug\Sprint11_Exerc_2.csproj.CoreCompileInputs.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\Sprint11_Exercises\Sprint11_Exerc_2\obj\Debug\Sprint11_Exerc_2.exe
+C:\RvT-repo\semester-4-cedricfortuinroc\Sprint11_Exercises\Sprint11_Exerc_2\obj\Debug\Sprint11_Exerc_2.pdb

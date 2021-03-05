@@ -1,0 +1,1 @@
+Open the .sln file in VS to get the projects
