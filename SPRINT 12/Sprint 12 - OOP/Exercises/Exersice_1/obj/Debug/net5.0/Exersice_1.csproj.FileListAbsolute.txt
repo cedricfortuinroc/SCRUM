@@ -1,0 +1,16 @@
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\Exersice_1.exe
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\Exersice_1.deps.json
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\Exersice_1.runtimeconfig.json
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\Exersice_1.runtimeconfig.dev.json
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\Exersice_1.dll
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\ref\Exersice_1.dll
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\bin\Debug\net5.0\Exersice_1.pdb
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.csprojAssemblyReference.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.AssemblyInfoInputs.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.AssemblyInfo.cs
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.csproj.CoreCompileInputs.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.dll
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\ref\Exersice_1.dll
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.pdb
+C:\RvT-repo\semester-4-cedricfortuinroc\SPRINT 12\Sprint 12 - OOP\Exercises\Exersice_1\obj\Debug\net5.0\Exersice_1.genruntimeconfig.cache

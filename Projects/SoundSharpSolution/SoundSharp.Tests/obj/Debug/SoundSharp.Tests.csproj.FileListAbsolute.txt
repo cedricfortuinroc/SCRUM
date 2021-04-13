@@ -1,0 +1,11 @@
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\bin\Debug\SoundSharp.Tests.dll
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\bin\Debug\SoundSharp.Tests.pdb
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\bin\Debug\nunit.framework.dll
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\bin\Debug\SoundSharp.dll
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\bin\Debug\SoundSharp.pdb
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\bin\Debug\nunit.framework.xml
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\obj\Debug\SoundSharp.Tests.csprojAssemblyReference.cache
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\obj\Debug\SoundSharp.Tests.csproj.CoreCompileInputs.cache
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\obj\Debug\SoundSharp.Tests.csproj.CopyComplete
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\obj\Debug\SoundSharp.Tests.dll
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp.Tests\obj\Debug\SoundSharp.Tests.pdb

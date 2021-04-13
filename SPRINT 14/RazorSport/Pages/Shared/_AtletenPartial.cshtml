@@ -1,0 +1,10 @@
+@using RazorSport.Models;
+@model IList<Atleet>
+
+<h2>Onze atleten</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Naam</li>
+    }
+</ul>

@@ -1,0 +1,6 @@
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp\bin\Debug\SoundSharp.dll
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp\bin\Debug\SoundSharp.pdb
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp\obj\Debug\SoundSharp.csprojAssemblyReference.cache
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp\obj\Debug\SoundSharp.csproj.CoreCompileInputs.cache
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp\obj\Debug\SoundSharp.dll
+C:\RvT\semester-4-cedricfortuinroc\Projects\SoundSharpSolution\SoundSharp\obj\Debug\SoundSharp.pdb

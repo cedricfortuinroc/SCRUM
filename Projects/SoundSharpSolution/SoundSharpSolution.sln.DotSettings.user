@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a72dbc5f_002Dd61a_002D4a62_002D85d5_002D444ba8871e43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TimeTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646162B7-699F-4B01-B11F-542B518A4319::.NETFramework,Version=v4.7.2::SoundSharp.Tests.TimeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646162B7-699F-4B01-B11F-542B518A4319::.NETFramework,Version=v4.7.2::SoundSharp.Tests.TrackTests.TrackTestGetLength&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646162B7-699F-4B01-B11F-542B518A4319::.NETFramework,Version=v4.7.2::SoundSharp.Tests.TrackTests.TrackTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,9 @@
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\bin\Debug\netcoreapp3.1\SoundSharpLib.Course.deps.json
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\bin\Debug\netcoreapp3.1\SoundSharpLib.Course.dll
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\bin\Debug\netcoreapp3.1\SoundSharpLib.Course.pdb
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\obj\Debug\netcoreapp3.1\SoundSharpLib.Course.csprojAssemblyReference.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\obj\Debug\netcoreapp3.1\SoundSharpLib.Course.AssemblyInfoInputs.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\obj\Debug\netcoreapp3.1\SoundSharpLib.Course.AssemblyInfo.cs
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\obj\Debug\netcoreapp3.1\SoundSharpLib.Course.csproj.CoreCompileInputs.cache
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\obj\Debug\netcoreapp3.1\SoundSharpLib.Course.dll
+C:\RvT-repo\semester-4-cedricfortuinroc\Courses\SoundSharpProject.19_03_21.Course\SoundSharpLib.Course\obj\Debug\netcoreapp3.1\SoundSharpLib.Course.pdb

@@ -1,0 +1,28 @@
+﻿@page
+
+@using Microsoft.Extensions.Configuration;
+@inject IConfiguration _configuration;
+@{
+    var vandaag = DateTime.Now.ToString("dddd");
+    var afbeelding = _configuration.GetValue<string>($"afbeeldingen:{vandaag}");
+    string text = _configuration.GetValue<string>($"messages:{vandaag}");
+}
+
+<html lang="nl">
+<head>
+    <title>Yeet</title>
+    <style>
+        #body {
+            background-image: url("/fotos/@afbeelding");
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body id="body">
+<div>
+    <h1>@text</h1>
+    <p>YEEEEEEEET</p>
+    <a href="https://www.youtube.com/watch?v=ZZ5LpwO-An4" target="_blank">Watch my boi</a>
+</div>
+</body>
+</html>
