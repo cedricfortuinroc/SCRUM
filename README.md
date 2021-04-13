@@ -9,6 +9,7 @@ This repository contains or will contain the following directories:
 - SPRINT 13 - SoundSharp project: visit /Projects/SoundSharpSolution/
 - SPRINT 14 - This folder contains a part of chapter 5
 
+These sprints are to be started yet:
 - SPRINT 15 // TO BE MADE
 - SPRINT 16 // TO BE MADE
 - SPRINT 17 // TO BE MADE
