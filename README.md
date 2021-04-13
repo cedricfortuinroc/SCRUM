@@ -15,7 +15,7 @@ These sprints are to be started yet:
 - SPRINT 17 // TO BE MADE
 - SPRINT 18 // TO BE MADE
 
-<br/><br/>
+<br/>
 
 © Cedric Fortuin - 2021 <br/>
 0322012@student.rocvantwente.nl
